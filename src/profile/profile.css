@@ -1,0 +1,31 @@
+.img {
+    display: flex;
+    justify-content: left;
+    margin-left: 0em;
+    margin-right: 75%;
+    width: 450px;
+    height: 350px;
+    background-color: lightsteelblue;
+  }
+  .h1{
+    
+    color: darkgoldenrod;
+    font-family: monospace;
+    font-size: 40px;
+  }
+  .view{
+      background-color: lightgray;
+      display: flex;
+      flex-direction: column;
+      justify-items: start;
+      margin-top: 0px;
+    
+  }
+  .p{
+      font-size: 30px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  .main{
+      background-color: lightgray;
+  }
